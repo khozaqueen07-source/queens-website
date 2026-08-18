@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5e6ff;
+  padding: 20px;} 
+
+
+h1{
+  color: purple;
+  text-align: center;} 
+
+
+p{font-size: 18px
+  text-align: center}
+
+
+button {
+  background-color: purple;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;} 
+
+
+button:hover{background-color:red;
+              transform scale:(1.05);}
+
+
+button:active {
+  transform: scale(0.95);} 
+
+
+a{color:purple;
+  text-decoration:none} 
