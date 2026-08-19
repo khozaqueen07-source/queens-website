@@ -9,8 +9,10 @@ h1{
   text-align: center;} 
 
 
-p{font-size: 18px
-  text-align: center}
+p {
+  font-size: 18px;
+  text-align: center;
+}
 
 
 button {
@@ -24,11 +26,11 @@ button {
 
 
 button:hover{background-color:red;
-              transform scale:(1.05);}
+              transform: scale(1.05);} 
 
 
-button:active {
-  transform: scale(0.95);} 
+button:active {transform: scale(0.95);} 
+  
 
 
 a{color:purple;
